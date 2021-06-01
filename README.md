@@ -2,10 +2,11 @@
 I am implementing various data structures and algorithms in Kotlin on LeetCode.
 The purpose is to get better in Kotlin and to know and use various features provided by the language along with developing better understanding of DS And algo.
 
-# Little bit about Bit Manipulation 
+# Little bit about Importance of Bit Manipulation 
    Bitwise operations are faster than the arithmatic operation. So At times we use bit manipulation to get the operation done with faster execution time. 
    Operations with bits are used in Data compression (data is compressed by converting it from one representation to another, to reduce the space), 
-   XOR Encryption (an algorithm to encrypt the data for safety issues). In such places we need to have good knowledge and skill over Bit Manipulation
+   XOR Encryption (an algorithm to encrypt the data for safety issues). In such places we need to have good knowledge and skill over Bit Manipulation.
+   Apart from this it holds a good weightage in interviews.
 # These are some important lessons I would like to revisit.(Not any proper order)
 
 # Brian Karnigham Algorithm
