@@ -43,8 +43,8 @@ Explanation through problem:
  Explanation of some property by a challenge.
  Problem: Given an array that contains all elements even number of times except one element. find the element occurring odd number of times.
     
-     Two property of Xor to remember: 1. n xor n == 0
-                                      2. 0 xor n == n
+     Two property of Xor to remember: 5. x xor x == 0
+                                      2. 0 xor x == x
      LOGIC: So if we apply xor on every elements of the array then each pair of numbers
      will make them self 0 and then one element will remain which with o result into itself
      Example: Given arr= [1,1,2,3,3,4,4,4,4]
