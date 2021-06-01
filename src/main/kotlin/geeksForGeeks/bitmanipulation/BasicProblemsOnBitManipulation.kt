@@ -1,4 +1,4 @@
-package geeksForGeeks
+package geeksForGeeks.bitmanipulation
 
 //Problem 1: Given a number N, the task is to check whether the given number is a power of 2 or not.
 fun isPowerOfTwo(number: Int): Boolean {
