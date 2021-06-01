@@ -8,8 +8,10 @@ The purpose is to get better in Kotlin and to know and use various features prov
 
 Explanation through problem:
     problem 3: Given a number find how many set bits are there in the binary representation of the number.
-    * Brian Karnighan algorithm says: n & n-1 will make exactly one set bit, the first set bit found from right, as 0
-    * example: n= 110100
+    * 
+    Brian Karnighan algorithm says: n & n-1 will make exactly one set bit, the first set bit found from right, as 0
+    *
+    example: n= 110100
     *            -     1
     *           ----------
     * then n-1 =  110011
