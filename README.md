@@ -52,3 +52,18 @@ Explanation through problem:
      1^1=0, 4^4^4^4=0, 2
      0^0^2=2
     
+ # Problem: Generate Power Set.
+     Note: This problem can be solved using recursion or Bit Manipulation technique.
+    
+     Example: str= "ABC"
+     Power set = {"","A", "B", "C","AB","BC","CA","ABC"}
+     n=3
+     then number of elements in power set is : 2^3
+     Algorithm:
+     1 find number of elements in power set using count = 1 << n == 1*2^n
+     2 loop1: i=0<count ????
+     3      loop2: j=0<n ????
+                 if(i&(1<<j)>0)  ????
+                  print->str[j]
+     
+    
