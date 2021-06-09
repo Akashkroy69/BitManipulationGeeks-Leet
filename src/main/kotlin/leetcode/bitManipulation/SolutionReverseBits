@@ -1,6 +1,7 @@
 package bitmanipulation.leetcode
 
-/*Reverse bits of a given 32 bits unsigned integer.
+/*Link for the problem on leetcode: 
+* Reverse bits of a given 32 bits unsigned integer.
 *
 * Input: n = 00000010100101000001111010011100
 Output:    964176192 (00111001011110000010100101000000)
