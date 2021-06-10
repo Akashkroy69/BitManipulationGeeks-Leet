@@ -1,0 +1,2 @@
+1. Know about how internally UInt and unsigned work. among all 3 representations (Signed magnitude form, 1's complement and 2's comp representation) generally 
+languages internally use 2's comp for mapping negative numbers.
