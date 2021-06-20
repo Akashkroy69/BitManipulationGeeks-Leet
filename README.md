@@ -128,4 +128,4 @@ Explanation through problem:
     //          step 2              step 3         step 4
         s.count { it == '1' } * 2     -1     +  s.count{it == '0'}
     }
-}
+    }
