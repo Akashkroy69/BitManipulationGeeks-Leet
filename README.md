@@ -87,20 +87,20 @@ Explanation through problem:
     Step 4) 3 is odd; subtract 1 and obtain 2.
     Step 5) 2 is even; divide by 2 and obtain 1.
     Step 6) 1 is odd; subtract 1 and obtain 0.*/
-   //Solution 1
-    class SolutionNumberOfStepsToReduceANumberToZero {
-    fun numberOfSteps(num: Int): Int {
-        var number = num
-        var numberOfSteps = 0
-        while (number > 0) {
-            number = if (number and 1 == 0) {
-                number shr 1
-            } else {
-                number - 1
+      Solution 1
+            class SolutionNumberOfStepsToReduceANumberToZero {
+            fun numberOfSteps(num: Int): Int {
+               var number = num
+               var numberOfSteps = 0
+                  while (number > 0) {
+                  number = if (number and 1 == 0) {
+                  number shr 1
+                  } else {
+                     number - 1
+                  }
+                 numberOfSteps++
             }
-            numberOfSteps++
-         }
-        return numberOfSteps
+           return numberOfSteps
        }
     //Solution 2: one Line Solution 
      //Algorithm: if num is 14.
