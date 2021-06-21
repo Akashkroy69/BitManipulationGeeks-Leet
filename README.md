@@ -40,6 +40,10 @@ Explanation through problem:
     3 x ^ y = y ^ x
     4 x ^ y ^ z = calculate in any order.
     5 x ^ x = 0
+     If x ^ y = z. Then x ^ z = y 
+                        y ^ z = x
+      Ex 1 ^ 2 = 3. Then 1 ^ 3 = 2
+                         2 ^ 3 = 1
     
  Explanation of some property by a challenge.
  Problem: Given an array that contains all elements even number of times except one element. find the element occurring odd number of times.
