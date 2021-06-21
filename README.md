@@ -66,7 +66,7 @@ Explanation through problem:
                  if(i&(1<<j)>0)  ????
                   print->str[j]
      
-# A very beautiful problem
+# A very beautiful problem ( A better technique in solution 2 )
 
      leetcode 1342 SolutionNumberOfStepsToReduceANumberToZero
 
