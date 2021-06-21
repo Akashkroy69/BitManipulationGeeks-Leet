@@ -40,7 +40,7 @@ Explanation through problem:
     3 x ^ y = y ^ x
     4 x ^ y ^ z = calculate in any order.
     5 x ^ x = 0
-     If x ^ y = z. Then x ^ z = y 
+    6 If x ^ y = z. Then x ^ z = y 
                         y ^ z = x
       Ex 1 ^ 2 = 3. Then 1 ^ 3 = 2
                          2 ^ 3 = 1
