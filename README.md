@@ -9,7 +9,7 @@ The purpose is to get better in Kotlin and to know and use various features prov
    Apart from this it holds a good weightage in interviews.
 # These are some important lessons I would like to revisit.(Not any proper order)
 
-# Brian Karnigham Algorithm
+# Brian-Karnigham Algorithm
 
 Explanation through problem:
     
